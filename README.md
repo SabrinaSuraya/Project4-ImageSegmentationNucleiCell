@@ -45,7 +45,12 @@ link: https://www.kaggle.com/c/data-science-bowl-2018
 
 EPOCHS=1
 
+![image](https://user-images.githubusercontent.com/73817610/176506092-ddac0358-dbb4-4a9d-9e19-ad4a9d5e05dc.png)
+
 EPOCHS=20
+
+![image](https://user-images.githubusercontent.com/73817610/176506208-d3a6eb73-b309-4298-a938-ccb5a0d15ed8.png)
+
 
 The value is display by using TensorBoard:
 
@@ -53,6 +58,16 @@ The value is display by using TensorBoard:
 # Model Prediction
 
 Predicting the first 5 images in test 
+
+![image](https://user-images.githubusercontent.com/73817610/176506261-edb6d8b0-2d55-4f65-89a7-0939e77f714d.png)
+
+![image](https://user-images.githubusercontent.com/73817610/176506274-146f7250-e35d-44b6-92be-7d4ba4b543ca.png)
+
+![image](https://user-images.githubusercontent.com/73817610/176506319-9a4b30ff-27f5-40d5-985e-751c3d4cd67b.png)
+
+![image](https://user-images.githubusercontent.com/73817610/176506337-6441b796-0156-4337-bdc3-22b6ebcee8de.png)
+
+![image](https://user-images.githubusercontent.com/73817610/176506361-bcf04512-cc97-462f-bc9b-66bf10d1a357.png)
 
 
 
