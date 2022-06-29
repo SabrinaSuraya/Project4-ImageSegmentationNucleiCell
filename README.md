@@ -54,6 +54,9 @@ EPOCHS=20
 
 The value is display by using TensorBoard:
 
+![image](https://user-images.githubusercontent.com/73817610/176509881-38400b7e-0135-4e7e-90cb-32cb1f2d222b.png)
+
+
 
 # Model Prediction
 
